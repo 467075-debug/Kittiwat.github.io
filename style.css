@@ -3,13 +3,13 @@ body {
       line-height: 1.6;
       margin: 0;
       padding: 0;
-      backgroung-color: #f4f4f4
-      color: #333;
+      backgroung-color: #ff0000
+      color: #0d0d0d;
   }
 
   header {
-        background:  #fcacf0;
-        color: black;
+        background:  #b32020;
+        color: white;
         padding: 20px 0;
         text-align: center;
       }
@@ -31,7 +31,7 @@ section {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
   h2 {
-    color: #fcacf0;
+    color: #e31b1b;
   }
 
   .project {
@@ -51,7 +51,7 @@ section {
   footer {
     text-align: center;
     padding: 10px 0;
-    background: #ffffff;
-    color: pink;
+    background: #911414;
+    color: white;
     margin-top: 20px;
   }
